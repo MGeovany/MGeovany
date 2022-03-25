@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MGeovany
 - 👀 I’m interested in Web development, Front-end initially
-- 🌱 I’m currently learning Sass and Web design structure
+- 🌱 I’m currently learning React and Node JS 
 - 💞️ I’m looking to collaborate on any front-end website
 - 📫 How to reach me -Email: marlongeo1999@gmail.com -Instagram: m_geovany_ 
 
