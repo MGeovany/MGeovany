@@ -1,5 +1,3 @@
-**
-
 ## Hi, 👋 I'm Geovany
  I am a Software Engineer
 
