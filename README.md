@@ -1,7 +1,7 @@
 ## Hi, 👋 I'm Geovany
  I am a Software Engineer
 
--   🔭  Working in  personal projects with Javascript, Express, React and MongoDB
+-   🔭  Working in  personal projects with MongoDB, Express, React and Node  
  - 💞️ I’m looking to collaborate on any  website as front-end developer
 
 ### Contact me
