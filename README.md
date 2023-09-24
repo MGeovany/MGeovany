@@ -25,8 +25,6 @@
 <a href="https://testing-library.com/docs/" target="_blank"><img height='40px' src="https://github.com/MGeovany/MGeovany/assets/37640685/8a4fb96b-a023-45d1-ad8d-70233576f8d8"/></a>
 <a href="https://jestjs.io/" target="_blank"><img height='40px' src="https://github.com/MGeovany/MGeovany/assets/37640685/585121bf-ae6e-4f68-b6fd-ac9750038d3e"/></a>
 <a href="https://nextjs.com"><img width='40px' src="https://github.com/MGeovany/MGeovany/assets/37640685/6a45bcbf-0fe4-4461-9a67-9fc7b1d189bb"/></a>
-<a href="https://prisma.io.com"><img height='40px' src="https://github.com/MGeovany/MGeovany/assets/37640685/0bd03bf9-4bac-4f3f-8816-05930144f03f"/></a>
-<a href="https://www.cypress.io.com/" target="_blank"><img height='40px' src="https://github.com/MGeovany/MGeovany/assets/37640685/1ae6a827-146c-457a-a0ca-92e090b8f6b1"/></a>
 
 
 #### Back-end
