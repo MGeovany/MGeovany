@@ -4,9 +4,9 @@
 
 ### Contact me
 
+- **Porfolio:**	 **<a target='_blank' href="https://mgeovany-dev.vercel.app/">megeovany-dev.com<a>**
+- **LinkedIn:**	 **<a target='_blank' href="https://www.linkedin.com/in/m-geovany/">linkedin.com/in/m-geovany<a>**
 - **Gmail:**		**marlongeo1999@gmail.com**
-- **LinkedIn:**	 **<a href="https://www.linkedin.com/in/m-geovany/">linkedin.com/in/m-geovany<a>**
-- **Porfolio:**	 **<a href="https://mgeovany-dev.vercel.app/">megeovany-dev.com<a>**
 
 
 
