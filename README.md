@@ -39,7 +39,7 @@
 <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/mysql-logo.png"/></a>
 
 
-#### Others
+
 <a href="https://git-scm.com/" target="_blank"><img height='45px' src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://jira.com/" target="_blank"><img height='40px' src="https://img.icons8.com/color/48/000000/jira.png"/></a>
 <a href="https://www.clickup.com/" target="_blank"><img width='40px' src="https://github.com/MGeovany/MGeovany/assets/37640685/b3163e64-d722-43e5-b2b8-abe55b93f38d"/></a>
