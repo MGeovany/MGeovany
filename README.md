@@ -35,6 +35,7 @@
 <a href="https://www.firebase.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
 <a href="https://www.supabase.com/" target="_blank"><img width='45px' src="https://github.com/MGeovany/MGeovany/assets/37640685/efa2539f-1112-4b88-a1bb-fc1bf5bfe60a"/></a>
 <a href="https://www.redis.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redis"/></a>
+<a href="https://adonisjs.com/" target="_blank"><img width='45px' src="https://icon.icepanel.io/Technology/svg/AdonisJS.svg"/></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img height='45px' src="https://github.com/MGeovany/MGeovany/assets/37640685/8742a5e4-81bc-4318-9fba-96c7f954fdbb"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/mysql-logo.png"/></a>
 
